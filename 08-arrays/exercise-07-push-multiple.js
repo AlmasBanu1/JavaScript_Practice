@@ -1,0 +1,7 @@
+let numbers = [
+    10,
+    20
+];
+numbers.push(30);
+numbers.push(40);
+console.log(numbers);
