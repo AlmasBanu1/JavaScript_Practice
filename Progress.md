@@ -110,7 +110,11 @@
 - [x] 09-uppercase-range.js
 - [x] 10-number-range.js
 - [x] 11-find-uppercase-range.js
-- [x] 12-find-uppercase-range.js
+- [x] 12-find-number-range.js
+- [x] 13-lowercase-comparison.js
+- [x] 14-find-lowercase.js
+- [x] 15-special-character-comparison.js
+- [x] 16-find-special-character.js
 
 **Concepts Covered**
 - String length
@@ -119,13 +123,16 @@
 - Character ranges
 - Looping through strings
 - Detecting uppercase letters
-- Detecting digits
+- Detecting lowercase letters
+- Detecting numeric digits
+- Detecting special characters
+- Boolean logic (`&&`, `||`, `!`)
 
 ---
 
 # 📖 Remaining Topics
 
-- [ ] Arrays
+- [x] Arrays (Basics)
 - [ ] Objects
 - [ ] Higher Order Functions
 - [ ] DOM
