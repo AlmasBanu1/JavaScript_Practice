@@ -1,8 +1,3 @@
-// Password Strength Checker - Version 6
-// This version automatically detects uppercase letters,
-// lowercase letters, numeric digits, and special characters
-// by scanning each character of the password.
-
 let password = "Secure@123";
 function checkPasswordScore(password) {
     let hasUppercase = false;
