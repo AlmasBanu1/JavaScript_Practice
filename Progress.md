@@ -130,6 +130,30 @@
 
 ---
 
+## ✅ 08 - Score Calculation
+
+**Status:** Completed
+
+### Exercises
+
+- [x] 01-score-variable.js
+- [x] 02-increment-score.js
+- [x] 03-score-with-loop.js
+- [x] 04-password-score-basics.js
+- [x] 05-password-rating.js
+- [x] 06-complete-password-score.js
+
+**Concepts Covered**
+- Variables
+- Increment operator (`+=`)
+- Score calculation
+- Returning values from functions
+- Function calls
+- Password scoring logic
+- Conditional statements (`if`, `else if`, `else`)
+
+---
+
 # 📖 Remaining Topics
 
 - [x] Arrays (Basics)
