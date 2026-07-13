@@ -4,7 +4,9 @@
 
 **Name:** Almas Banu
 
-### Learning Approach
+---
+
+# 📖 Learning Approach
 
 - Learn one concept at a time.
 - Solve exercises independently before asking for help.
@@ -15,17 +17,22 @@
 
 ---
 
-# 📚 Completed Topics
+# 📚 Learning Progress
 
 ## ✅ 01 - Variables
 
 **Status:** Completed
 
-**Concepts Covered**
+**Exercises Completed:** 10
+
+### Key Concepts
 - Variable declaration
-- let
-- const
+- `let`
+- `const`
 - Naming conventions
+
+**Folder**
+📁 01-variables
 
 ---
 
@@ -33,12 +40,19 @@
 
 **Status:** Completed
 
-**Concepts Covered**
+**Exercises Completed:** 8
+
+### Key Concepts
 - String
 - Number
 - Boolean
 - Undefined
 - Null
+- Object
+- Array
+
+**Folder**
+📁 02-data-types
 
 ---
 
@@ -46,12 +60,17 @@
 
 **Status:** Completed
 
-**Concepts Covered**
+**Exercises Completed:** 8
+
+### Key Concepts
 - Arithmetic Operators
 - Assignment Operators
 - Comparison Operators
 - Logical Operators
 - Increment / Decrement Operators
+
+**Folder**
+📁 03-operators
 
 ---
 
@@ -59,12 +78,17 @@
 
 **Status:** Completed
 
-**Concepts Covered**
-- if
-- if...else
-- else if
+**Exercises Completed:** 8
+
+### Key Concepts
+- `if`
+- `if...else`
+- `else if`
 - Nested conditions
-- Password validation examples
+- Password validation
+
+**Folder**
+📁 04-conditions
 
 ---
 
@@ -72,12 +96,17 @@
 
 **Status:** Completed
 
-**Concepts Covered**
+**Exercises Completed:** 9
+
+### Key Concepts
 - Function declaration
 - Parameters
 - Arguments
-- return keyword
-- Difference between return and console.log()
+- `return`
+- Difference between `return` and `console.log()`
+
+**Folder**
+📁 05-functions
 
 ---
 
@@ -85,11 +114,16 @@
 
 **Status:** Completed
 
-**Concepts Covered**
-- for loop
-- while loop
-- break
-- continue
+**Exercises Completed:** 10
+
+### Key Concepts
+- `for`
+- `while`
+- `break`
+- `continue`
+
+**Folder**
+📁 06-loops
 
 ---
 
@@ -97,26 +131,9 @@
 
 **Status:** Completed
 
-### Exercises
+**Exercises Completed:** 16
 
-- [x] 01-string-length.js
-- [x] 02-first-character.js
-- [x] 03-last-character.js
-- [x] 04-loop-through-string.js
-- [x] 05-password-info.js
-- [x] 06-character-comparison.js
-- [x] 07-find-uppercase.js
-- [x] 08-find-number.js
-- [x] 09-uppercase-range.js
-- [x] 10-number-range.js
-- [x] 11-find-uppercase-range.js
-- [x] 12-find-number-range.js
-- [x] 13-lowercase-comparison.js
-- [x] 14-find-lowercase.js
-- [x] 15-special-character-comparison.js
-- [x] 16-find-special-character.js
-
-**Concepts Covered**
+### Key Concepts
 - String length
 - Character indexing
 - Character comparison
@@ -128,35 +145,74 @@
 - Detecting special characters
 - Boolean logic (`&&`, `||`, `!`)
 
+**Folder**
+📁 07-strings
+
 ---
 
 ## ✅ 08 - Score Calculation
 
 **Status:** Completed
 
-### Exercises
+**Exercises Completed:** 6
 
-- [x] 01-score-variable.js
-- [x] 02-increment-score.js
-- [x] 03-score-with-loop.js
-- [x] 04-password-score-basics.js
-- [x] 05-password-rating.js
-- [x] 06-complete-password-score.js
-
-**Concepts Covered**
+### Key Concepts
 - Variables
 - Increment operator (`+=`)
-- Score calculation
-- Returning values from functions
+- Password scoring
+- Function return values
 - Function calls
-- Password scoring logic
-- Conditional statements (`if`, `else if`, `else`)
+- Conditional statements
+- Password rating logic
+
+**Folder**
+📁 08-score-calculation
 
 ---
 
-# 📖 Remaining Topics
+## ⏳ 09 - Arrays
 
-- [x] Arrays (Basics)
+**Status:** In Progress
+
+**Exercises Completed:** 24
+
+### Key Concepts
+- Array creation
+- Array indexing
+- Updating array elements
+- `push()`
+- `pop()`
+- `length`
+- Looping through arrays
+- Searching arrays
+- `break`
+
+**Folder**
+📁 09-arrays
+
+---
+
+## ✅ 10 - Random Numbers
+
+**Status:** Completed
+
+**Exercises Completed:** 4
+
+### Key Concepts
+- `Math.random()`
+- `Math.floor()`
+- Random number generation
+- Random number ranges
+- Random index generation
+- Random character selection
+
+**Folder**
+📁 10-random-numbers
+
+---
+
+# 📖 Upcoming Topics
+
 - [ ] Objects
 - [ ] Higher Order Functions
 - [ ] DOM
@@ -171,12 +227,14 @@
 
 # 🎯 Current Goal
 
-Complete JavaScript fundamentals by learning one topic at a time and integrating every major concept into real projects.
+Complete JavaScript fundamentals by mastering one topic at a time, solving exercises independently, and applying every major concept to real-world projects.
 
 ---
 
 # 📌 Last Updated
 
-✅ Strings completed (12 exercises)
+✅ Random Numbers module completed
 
-➡️ Next Topic: Arrays
+🟡 Arrays module in progress (24 exercises completed)
+
+➡️ Next Milestone: Complete Arrays and integrate them into the Secure Password Manager.
