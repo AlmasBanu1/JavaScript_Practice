@@ -211,6 +211,30 @@
 
 ---
 
+## ✅ 11 - Swapping
+
+**Status:** Completed
+
+**Exercises Completed:** 3
+
+### Key Concepts
+- Swapping two variables
+- Swapping array elements
+- Temporary variable (`temp`)
+- Random index generation
+- Array indexing
+- In-place array updates
+
+**Exercises**
+- Swap two variables
+- Swap array elements
+- Generate a random array index
+
+**Folder**
+📁 11-swapping
+
+---
+
 # 📖 Upcoming Topics
 
 - [ ] Objects
