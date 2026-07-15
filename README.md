@@ -36,12 +36,11 @@ JavaScript_Practice/
 ├── 08-score-calculation/
 ├── 09-arrays/
 ├── 10-random-numbers/
+├── 11-swapping/
 │
 ├── Progress.md
 └── README.md
 ```
-
----
 
 # Learning Roadmap
 
@@ -57,6 +56,7 @@ JavaScript_Practice/
 | Score Calculation | Completed |
 | Arrays | In Progress |
 | Random Numbers | Completed |
+| Swapping | Completed |
 | Objects | Planned |
 | Higher Order Functions | Planned |
 | DOM | Planned |
