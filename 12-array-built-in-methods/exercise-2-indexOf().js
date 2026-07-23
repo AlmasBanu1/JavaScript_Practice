@@ -8,5 +8,5 @@ let fruits = [
 ];
 
 console.log(
-    fruits.indexOf("Mango")
+    fruits.indexOf("Mango")         // index OR -1
 );

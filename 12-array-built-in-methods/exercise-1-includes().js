@@ -9,7 +9,7 @@ let cities = [
 
 let cityFound = cities.includes("Bangalore");
 if(cityFound){
-    console.log("City Found");
+    console.log("City Found");         // true
 }else{
-    console.log("City Not Found");
+    console.log("City Not Found");     // false
 }

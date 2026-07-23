@@ -10,4 +10,4 @@ let answer = numbers.find(
 
 );
 
-console.log(answer);
+console.log(answer);         // if condition is true then prints value else undefined

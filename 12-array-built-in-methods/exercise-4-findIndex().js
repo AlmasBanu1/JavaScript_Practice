@@ -17,4 +17,4 @@ let answer = numbers.findIndex(
 
 );
 
-console.log(answer);
+console.log(answer);            // if condition is true then prints index of the value else -1
