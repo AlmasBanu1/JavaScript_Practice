@@ -235,6 +235,57 @@
 
 ---
 
+12 - Array Built-in Methods
+
+Status: Completed
+
+Exercises Completed: 11
+
+Key Concepts
+Built-in array methods
+Searching arrays
+Finding elements
+Finding element indexes
+Updating array elements
+Deleting array elements
+Filtering arrays
+Transforming arrays
+Callback functions
+Array indexes
+Returning values from callback functions
+Comparing manual operations with built-in methods
+Built-in Methods Practiced
+includes()
+indexOf()
+find()
+findIndex()
+forEach()
+splice()
+filter()
+map()
+some()
+every()
+sort()
+
+Exercises
+
+Search for an element using includes()
+Find an element index using indexOf()
+Find an element using find()
+Find an element index using findIndex()
+Display array elements using forEach()
+Delete elements using splice()
+Update elements using splice()
+Insert elements using splice()
+Delete/select elements using filter()
+Filter elements using conditions
+Transform elements using map()
+
+Folder
+📁 12-array-built-in-methods
+
+---
+
 # 📖 Upcoming Topics
 
 - [ ] Objects
@@ -259,6 +310,12 @@ Complete JavaScript fundamentals by mastering one topic at a time, solving exerc
 
 ✅ Random Numbers module completed
 
-🟡 Arrays module in progress (24 exercises completed)
+✅ Arrays module completed
 
-➡️ Next Milestone: Complete Arrays and integrate them into the Secure Password Manager.
+✅ Array Built-in Methods module completed
+
+➡️ Next Milestone: Objects
+
+➡️ Secure Password Manager: Version 21 completed
+
+➡️ Next Project Milestone: Version 22 - Command Line Interface (CLI)
